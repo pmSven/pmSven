@@ -8,10 +8,6 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 <br/>
 
-<img alt="Night Coding" width="200px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-
-<br />
-
 ### 🛠 &nbsp; Languages
 
 <img align="left" alt="C++" width="26px" src="./logos/languages/c%2B%2B.png" />
@@ -26,8 +22,9 @@ My main focus is the development and conception of e-commerce challenges and ind
 <img align="left" alt="Swift" width="26px" src="./logos/languages/swift.webp" />
 
 
-<br />
-<br />
+<img alt="Night Coding" width="200px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+
 ### 🛠 &nbsp; Frameworks
 
 <img align="left" alt="Android" width="26px" src="./logos/frameworks/android.png" />
