@@ -10,18 +10,20 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
 
-<img align="left" alt="Php" width="26px" src="https://banner2.cleanpng.com/20180422/qze/kisspng-php-server-side-scripting-computer-software-genera-php-5adc5e78de7813.0517335015243915449112.jpg" />
-<img align="left" alt="Javascript" width="26px" src="https://banner2.cleanpng.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />
-<img align="left" alt="JQuery" width="26px" src="https://banner2.cleanpng.com/20180821/pqg/kisspng-product-design-logo-brand-organization-krowmx-sistemas-5b7c7074edd088.8054768515348819089741.jpg" />
+### 🛠 &nbsp; Languages
+
+<img align="left" alt="C++" width="26px" src="./logos/languages/c%2B%2B.png" />
+<img align="left" alt="C" width="26px" src="./logos/languages/c.png" />
+
+<br />
+<br />
+### 🛠 &nbsp; Frameworks
 
 
 <br />
 <br />
-### Softwares:
-
-<img align="left" alt="JetBrains PhpStorm WebStorm - Php" width="26px" src="https://banner2.cleanpng.com/20180619/oju/kisspng-phpstorm-jetbrains-webstorm-php-5b28f2c008a9c0.9825465415294102400355.jpg" />
+### 🛠 &nbsp; Tools
 
 
 <br />
