@@ -78,10 +78,6 @@ My main focus is the development and conception of e-commerce challenges and ind
 <br />
 <img alt="Night Coding" width="200px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-
-<br />
-<br />
-
 ---
 
 <img src="https://wakatime.com/share/@097fa0e5-d0f8-4197-ac87-a90263a8d46a/426fbf28-92f2-47bd-a3ee-15f474283ec4.png" />
