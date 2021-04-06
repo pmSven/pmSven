@@ -22,7 +22,7 @@ My main focus is the development and conception of e-commerce challenges and ind
 <img align="left" alt="Kotlin" width="26px" src="./logos/languages/kotlin.png" />
 <img align="left" alt="PHP" width="26px" src="./logos/languages/php.png" />
 <img align="left" alt="Python" width="26px" src="./logos/languages/python.png" />
-<img align="left" alt="Swift" width="26px" src="./logos/languages/swift.png" />
+<img align="left" alt="Swift" width="26px" src="./logos/languages/swift.webp" />
 
 
 <br />
