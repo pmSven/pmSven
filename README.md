@@ -8,7 +8,7 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 <br/>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width="250px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ### 🛠 &nbsp; Languages
