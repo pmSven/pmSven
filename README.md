@@ -29,6 +29,21 @@ My main focus is the development and conception of e-commerce challenges and ind
 <br />
 ### 🛠 &nbsp; Frameworks
 
+<img align="left" alt="Android" width="26px" src="./logos/languages/android.png" />
+<img align="left" alt="Angular" width="26px" src="./logos/languages/angular.png" />
+<img align="left" alt="ElasticSearch" width="26px" src="./logos/languages/es.webp" />
+<img align="left" alt="Flutter" width="26px" src="./logos/languages/flutter.png" />
+<img align="left" alt="JQuery" width="26px" src="./logos/languages/jquery.png" />
+<img align="left" alt="Keras" width="26px" src="./logos/languages/keras.png" />
+<img align="left" alt="LESS" width="26px" src="./logos/languages/less.png" />
+<img align="left" alt="NET" width="26px" src="./logos/languages/net.png" />
+<img align="left" alt="PHP UNIT" width="26px" src="./logos/languages/phpunit.jpeg" />
+<img align="left" alt="Selenium" width="26px" src="./logos/languages/selenium.png" />
+<img align="left" alt="Shopware" width="26px" src="./logos/languages/shopware.webp" />
+<img align="left" alt="Symfony" width="26px" src="./logos/languages/symfony.png" />
+<img align="left" alt="Tensaflow" width="26px" src="./logos/languages/tensaflow.jpg" />
+<img align="left" alt="VueJs" width="26px" src="./logos/languages/vuejs.png" />
+<img align="left" alt="WordPress" width="26px" src="./logos/languages/wordpress.png" />
 
 <br />
 <br />
