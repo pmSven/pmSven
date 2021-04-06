@@ -78,6 +78,14 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsven&layout=compact&theme=tokyonight)](https://github.com/pmsven/github-readme-stats)
 
+
+<br />
+<br />
+
+---
+
+<figure><embed src="https://wakatime.com/share/@097fa0e5-d0f8-4197-ac87-a90263a8d46a/2c333a8f-c225-4d69-8480-98b37dcf1e77.svg"></embed></figure>
+
 ---
 
 </br>
