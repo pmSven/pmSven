@@ -47,6 +47,9 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 <br />
 <br />
+
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150"/>
+
 ### 🛠 &nbsp; Tools
 
 <img align="left" alt="Docker" width="26px" src="./logos/tools/docker.png" />
@@ -74,7 +77,6 @@ My main focus is the development and conception of e-commerce challenges and ind
 <br />
 <br />
 
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsven&layout=compact&theme=tokyonight)](https://github.com/pmsven/github-readme-stats)
 
@@ -88,8 +90,6 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 ---
 
-</br>
-</br>
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
