@@ -48,7 +48,7 @@ My main focus is the development and conception of e-commerce challenges and ind
 <br />
 <br />
 
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150"/>
+<img src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="150"/>
 
 ### 🛠 &nbsp; Tools
 
