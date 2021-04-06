@@ -24,7 +24,7 @@ My main focus is the development and conception of e-commerce challenges and ind
 <br/>
 <br/>
 
-<img alt="Night Coding" width="200px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsven&layout=compact&theme=tokyonight)](https://github.com/pmsven/github-readme-stats)
 
 
 ### 🛠 &nbsp; Frameworks
@@ -76,9 +76,7 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 <br />
 <br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsven&layout=compact&theme=tokyonight)](https://github.com/pmsven/github-readme-stats)
+<img alt="Night Coding" width="200px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 
 <br />
