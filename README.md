@@ -84,7 +84,7 @@ My main focus is the development and conception of e-commerce challenges and ind
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@097fa0e5-d0f8-4197-ac87-a90263a8d46a/2c333a8f-c225-4d69-8480-98b37dcf1e77.svg"></embed></figure>
+<img src="https://wakatime.com/share/@097fa0e5-d0f8-4197-ac87-a90263a8d46a/426fbf28-92f2-47bd-a3ee-15f474283ec4.png" />
 
 ---
 
